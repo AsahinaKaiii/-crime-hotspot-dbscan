@@ -1,4 +1,4 @@
-# -crime-hotspot-dbscan
+# -Crime-Hotspot-DBSCAN
 A machine learning project that identifies crime hotspots 
 in Los Angeles using density-based clustering (DBSCAN).
 
@@ -17,12 +17,18 @@ in Los Angeles using density-based clustering (DBSCAN).
 
 ## Tools Used
 Tool and Purpose
- Python - Programming language 
-Google Colab - Development environment 
-scikit-learn - DBSCAN algorithm 
-Pandas & NumPy - Data cleaning 
-Matplotlib - Plotting clusters 
-Folium - Interactive crime map 
+## Python
+- Programming language 
+## Google Colab
+- Development environment 
+## scikit-learn
+- DBSCAN algorithm 
+## Pandas & NumPy
+ - Data cleaning 
+## Matplotlib
+ - Plotting clusters 
+## Folium
+ - Interactive crime map 
 
 
 ## Dataset
